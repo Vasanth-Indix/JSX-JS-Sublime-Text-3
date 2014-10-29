@@ -27,7 +27,7 @@ Reference: https://www.npmjs.org/package/react-tools
 
 Install JSX-JS plugin
 
-OPTION 1 - With the Package Control plugin (recommended)
+With the Package Control plugin (recommended)
 
 The easiest way to install this package is through Package Control.
 
