@@ -1,0 +1,15 @@
+{
+	"cmd": ["jsx", "-w", "-x", "jsx", "--no-cache-dir", "${file_path}", "${file_path}"],
+	"selector": "source.jsx",
+	"line_regex": "Line ([0-9]+):",
+
+	"osx":
+	{
+		"path": "/usr/local/bin:$PATH"
+	},
+
+	"windows":
+	{
+		"shell": "true"
+	}
+}
